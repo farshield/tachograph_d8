@@ -1,0 +1,59 @@
+# Custom
+build/
+nbbuild/
+debug/
+dist/
+nbproject/
+disassembly/
+html/
+getting_started.txt
+Makefile
+lscript.GLD
+.DS_Store
+.vscode/
+mcc_generated_files/
+*.mc3
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
